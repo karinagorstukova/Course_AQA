@@ -3,11 +3,11 @@ package school.lesson2;
 public class Lesson2 {
     public static void main(String[] args) {
         System.out.println(doTask1(1, 9));
-        doTask2(10);
-        System.out.println(doTask3(-25));
+        doTask2(8);
+        System.out.println(doTask3(-1));
         doTask4("Karina", 3);
 
-        System.out.println(doTask41(1900)); // Task 4*
+        System.out.println(doTask41(1994)); // Task 4*
 
         int[] arr1 = {1, 1, 0, 0, 1, 0, 1, 1, 0, 0}; // Array for task 5
         System.out.println("Task 5: ");
